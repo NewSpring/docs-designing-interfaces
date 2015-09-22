@@ -11,3 +11,4 @@ It is important to try and select a test group that is representative of the vas
 We use a service called [Lookback](https://lookback.io) in conjunction with our Invision prototype to run our user testing. Lookback records the devices screen, but also utilizes the mic and camera to record the users face and voice. This is incredibly useful when it comes time to assess the results of the test. It enables the person running the test to be present in the moment without worrying about annotating their observations.
 
 
+> Documentation on how to implement user testing can be found in a later chapter of this guide.
