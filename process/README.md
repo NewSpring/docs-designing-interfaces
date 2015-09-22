@@ -1,4 +1,4 @@
-# Discovery
+# Design Process
 
 At NewSpring we take an iterative approach to design, which is broken into 5 main areas:
 
@@ -11,7 +11,7 @@ At NewSpring we take an iterative approach to design, which is broken into 5 mai
 
 
 
-#### User Mapping
+#### User Story Mapping
 User story mapping defines the specific types of people who will be using your product and the types of activities they will be undertaking. 
 
 
