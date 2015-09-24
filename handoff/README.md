@@ -6,3 +6,9 @@ Handing our assets off is centered around 2 core tasks:
 
 - Naming conventions
 - Exporting
+
+#### Naming Conventions
+This is the cornerstone of handing off assets. Getting this right from the beginning will set you up for a smooth export process. 
+
+#### Exporting
+Setting aside ample time for a great export is vital to ensuring you communicate the necessary details. It is the best time for going above and beyond in making sure whoever develops your designs feels valued and taken care of.  
