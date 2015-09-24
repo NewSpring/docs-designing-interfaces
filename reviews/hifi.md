@@ -3,6 +3,7 @@
 The second time we conduct a design review is at the end of the hi-fi designs. This may require exporting the current artboards. This should be a high quality visual confirmation of everything discussed from the first review. Where possible, it should be content relevant to give the team as much context as possible.
 
 The goal for this review:
+
 1. **Confirm Solution**
 
 	The hi-fi designs represent the complete thought of the agreed upon solution. 
