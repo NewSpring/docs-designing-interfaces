@@ -2,6 +2,7 @@
 Sketch is an incredibly powerful tool for creating digital interfaces. We love it because it enables us to iterate quickly and move from lo-fi to hi-fi with ease.
 
 There are ton of resources for learning the ins and outs of Sketch, here are 2:
+
 [http://bohemiancoding.com/sketch/learn/](http://bohemiancoding.com/sketch/learn/)
 
 [https://designcode.io/sketch](https://designcode.io/sketch)
