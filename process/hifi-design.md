@@ -14,7 +14,7 @@ One of the pros to using Sketch over an application like Photoshop is the artboa
 1. You don’t get caught in an undo trap trying to return to your original idea. 
 2. Having many artboards is incredibly useful in sharing the process that got you to the final iteration. 
 
-> Here is an example of 4 different artboards iterating on the countdown feature on mobile giving history ![mobile giving history](https://photos-2.dropbox.com/t/2/AAB-xK-CvUWmngo_8GnWO1D1Ulu_kTdH2FoEiiONO7f_RQ/12/5045573/png/32x32/1/_/1/2/Screenshot%202015-09-21%2016.35.44.png/ELe_4wMY_PICIAEgAigB/uvxKx_yzFROZMgFNdc6Eil1Y-NJ6sNWWBMdY56ydyR0?size=1600x1200&size_mode=2).
+> Here is an example of 4 different artboards iterating on the countdown feature on mobile giving history ![mobile giving history](https://s3.amazonaws.com/uploads.hipchat.com/21097/1894791/b0x0zweq0UZAB0p/upload.png).
 
 
 #### The Endgame

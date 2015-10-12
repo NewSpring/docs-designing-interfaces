@@ -16,16 +16,16 @@
 	- [Invision](tools/invision.md)
 	- [Lookback](tools/lookback.md)
 
+- [Running Usability Tests](usability-tests/README.md)
+	- [Preparation](usability-tests/preparation.md)	
+	- [Testing 1,2,3](usability-tests/testing123.md)
+	- [Post Mortem](usability-tests/post-mortem.md)
+
+- [Design Reviews](reviews/README.md)
+	- [Lo-Fi Review](reviews/lofi.md)
+	- [Hi-Fi Review](reviews/hifi.md)
+	- [Testing Review	](reviews/testing.md)
+
 - [Design Handoff](handoff/README.md)
 	- [Naming Conventions](handoff/naming.md) 
 	- [Exporting Assets](handoff/exports.md)
-
-Running Usability Tests
-	Setting Up
-	Running The Test
-	The Aftermath
-
-Design Reviews
-	Lo-Fi Review
-	Hi-Fi Review
-	Testing Review	
