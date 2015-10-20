@@ -13,8 +13,8 @@ When you have narrowed down your drawings to 1 or 2 concrete ideas then it’s t
 #### Tool Up
 To help give some context to our drawings we use some basic device templates. These can be found here:
 
-[iPhone](https://www.dropbox.com/s/ekb1ukfx45f6oai/iphone-template.pdf?dl=0)
+[iPhone](https://www.dropbox.com/s/tngvoz4cssi1q8b/iphone-template.pdf?dl=0)
 
-[iPad](https://www.dropbox.com/s/lfvocvsavti1uw7/ipad-template.pdf?dl=0)
+[iPad](https://www.dropbox.com/s/c9g61aozyfx9nu4/ipad-template.pdf?dl=0)
 
-[Desktop](https://www.dropbox.com/s/x6m3iczkzwgk2t2/desktop-template.pdf?dl=0)
+[Desktop](https://www.dropbox.com/s/qisn81l97digf8d/desktop-template.pdf?dl=0)
