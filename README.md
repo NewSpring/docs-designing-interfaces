@@ -1,8 +1,8 @@
 # Designing Interfaces for NewSpring Web
 
-At NewSpring we are designing digital products for simple humans. The goal of every interface we create is to serve users, facilitating them in taking their next step with Jesus. This requires a holistic approach to the way we design as we aim for universal accessibility of the things we create. 
+At NewSpring we are designing digital products for simple humans. The goal of every interface we create is to serve users, helping them take their next step with Jesus. This requires a holistic approach to the way we design as we aim for universal accessibility of the things we create. 
 
-This guide sets out to provide a structure to the way we approach designing interfaces, from initial ideation, to testing, to handing off of assets to the development team. 
+This guide sets out to provide a structure to the way we approach designing interfaces, from initial ideation, to testing, to handing off of assets to the development team.
 
 
 ### Local Editing
