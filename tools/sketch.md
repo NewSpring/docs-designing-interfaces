@@ -5,7 +5,7 @@ Here are few things that will help you when using Sketch for a NewSpring project
 
 
 #### Styleguides
-A styleguide or component library will allow you to move much faster because you can access the existing components we have already defined. We have two styleguide template files in Dropbox, one for desktop, and one for mobile. The mobile file is adjusted to be @2x for retina screens. When starting a new project copy and paste the artboards from the template file into your new project file. This will instantly transfer over the text and object styles to your new document.  
+A styleguide or component library will allow you to move much faster because you can access the existing components we have already defined. We have two styleguide template files in Dropbox, [one for desktop](https://www.dropbox.com/s/c870ky272sm5dx2/desktop-newspring_ui_kit.sketch?dl=0), and [one for mobile](https://www.dropbox.com/s/cgp5rjx4nshquh6/mobile-newspring_ui_kit.sketch?dl=0). The mobile file is adjusted to be @2x for retina screens. When starting a new project copy and paste the artboards from the template file into your new project file. This will instantly transfer over the text and object styles to your new document.  
 
 ![styleguide](https://s3.amazonaws.com/uploads.hipchat.com/21097/1894791/qmVd1nzDnVTDSzd/upload.png)
 
