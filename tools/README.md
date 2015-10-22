@@ -1,6 +1,6 @@
 # Design Tools
 
-We are blessed to have access to many different tools for crafting our designs. Providing tools for digital designers is a burgeoning industry which makes it an exciting time to be creating products. At the NewSpring web team we want to use the right tool for the right application, so we can move as fast and as excellently as possible.
+We are blessed to have access to many different tools for crafting our designs. Providing tools for digital designers is a burgeoning industry which makes it an exciting time to be creating products. At NewSpring Web we want to use the right tool for the right application, so we can move fast and build excellence into what we do.
 
 As such, this list may be subject to change as we see the next generation of tools hit the market. Currently the tools we use are as follows.
 
@@ -13,7 +13,7 @@ We use Sketch by Bohemian Coding to create our hi-fi designs. It was specificall
 
 
 #### Invision
-When we have finished our interfaces in Sketch we upload them to Invision, a browser based application for prototyping. Invasion allows us to connect all the artboards together to make a working prototype for our usability testing. 
+When we have finished our interfaces in Sketch we upload them to Invision, a browser based application for prototyping. Invision allows us to connect all the artboards together to make a working prototype for our usability testing.
 
 #### Lookback
-We use Lookback in conjunction with Invision for testing. Lookback allows us to record a device’s screen, while also capturing video and audio using the device’s camera and mic. This is incredibly useful for capturing our testing sessions so we can revisit them later for analysis. 
+We use Lookback in conjunction with Invision for testing. Lookback allows us to record a device’s screen, while also capturing video and audio using the device’s camera and mic. This is incredibly useful for capturing our testing sessions so we can revisit them later for analysis.
