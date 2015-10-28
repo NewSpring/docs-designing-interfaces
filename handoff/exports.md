@@ -1,6 +1,6 @@
 # Exporting Assets
 
-Now you have incorporated a systematic approach to naming the elements and artboards, it is time to get down to the nitty gritty of exporting. 
+Now that you have incorporated a systematic approach to naming the elements and artboards, it is time to get down to the nitty gritty of exporting.
 
 #### Getting Started
 When you create a new artboard ensure it is set to export with a background color. This will save you having to go back through every artboard later.
@@ -32,7 +32,7 @@ For the purpose of this guide we’ll use mobile as our example:
 						icon-bank_account.svg
 						icon-calendar.svg
 						icon-history.svg
-					- pages 
+					- pages
 						iphone_6-article-2.png
 						iphone_6-profile-edit_credit_card.png
 						iphone_6-search_results-1.png
@@ -45,14 +45,14 @@ Generally the first phase of exporting is sharing the pages you’ve completed. 
 ![](https://s3.amazonaws.com/uploads.hipchat.com/21097/1894791/umdKC1RwCFM6vqT/upload.png)
 
 
-As you can see, a lot of other elements show up in the batch export, as it is showing you anything in the document that has been giving export properties. If it gets too time consuming trawling through the elements to find the artboards you can do a manual export. You perform the manual export by selecting all the artboards and using the export function in the side panel.
+As you can see, a lot of other elements show up in the batch export, as it is showing you anything in the document that has been given export properties. If it gets too time consuming trawling through the elements to find the artboards you can do a manual export. You perform the manual export by selecting all the artboards and using the export function in the side panel.
 
 
 ![](https://s3.amazonaws.com/uploads.hipchat.com/21097/1894791/JAcdWPwLXthsFLB/upload.png)
 
 
 #### Step 2: Spec Pages
-This is step is by far the most time consuming of the export process, but inevitably is the most important. It is this step that prevents the development team from having to guess and sets them up for success in implementing your designs. I previously mentioned the Sketch Measure plugin and this is where it will become familiar. 
+This step is by far the most time consuming of the export process, but inevitably is the most important. It is this step that prevents the development team from having to guess and sets them up for success in implementing your designs. I previously mentioned the Sketch Measure plugin and this is where it will become familiar.
 
 The goal of the spec page is to take the guess work out of your design. We annotate the design with distances, sizes, padding and typography styles. There are keyboard shortcuts for the plugin, which are useful to learn in order to speed up your workflow.
 
@@ -64,7 +64,7 @@ The goal of the spec page is to take the guess work out of your design. We annot
 
 
 #### Step 3: Elements
-The final step is to hand off any page specific elements that are needed to re-create the design. Oftentimes we are using content that will eventually be replaced with dynamic content on the live site. While this will be replaced, it is still important to export the static elements for the development team to use in creating the initial page. Typically these elements end up being images and icons. 
+The final step is to hand off any page specific elements that are needed to re-create the design. Oftentimes we are using content that will eventually be replaced with dynamic content on the live site. While this will be replaced, it is still important to export the static elements for the development team to use in creating the initial page. Typically these elements end up being images and icons.
 
 Having nicely organized your files with the naming conventions when handing off these assets you can simply send over the dropbox link.
 
