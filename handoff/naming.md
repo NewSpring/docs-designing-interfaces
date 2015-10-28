@@ -1,6 +1,6 @@
 # Naming Conventions
 
-This is a task that takes relatively little time, but it works best when integrated throughout your process of creating hi-fi designs. 
+This is a task that takes relatively little time, but it works best when integrated throughout your process of creating hi-fi designs.
 
 
 #### Naming Artboards
@@ -10,7 +10,7 @@ Rename your artboards as you create new ones to keep things organized and easy t
 - Webpage_name
 - Number
 
-So, you use _ for related words and - to separate sections.
+So you use _ for related words and - to separate sections.
 
 Put together this would be:
 iPhone_6-home-1
